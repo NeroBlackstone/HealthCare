@@ -1,8 +1,1 @@
-# flutter_app_gradle5
-
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+很久以前写的demo
